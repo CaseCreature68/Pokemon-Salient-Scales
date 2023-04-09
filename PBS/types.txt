@@ -15,7 +15,7 @@ Resistances = ROCK,BUG,DARK
 [FLYING]
 Name = Flying
 IconPosition = 2
-Weaknesses = ROCK,ELECTRIC,ICE
+Weaknesses = ROCK,ELECTRIC,ICE,SOUND
 Resistances = FIGHTING,BUG,GRASS
 Immunities = GROUND
 #-------------------------------
@@ -30,7 +30,7 @@ Name = Ground
 IconPosition = 4
 Weaknesses = WATER,GRASS,ICE
 Resistances = POISON,ROCK
-Immunities = ELECTRIC
+Immunities = ELECTRIC,SOUND
 #-------------------------------
 [ROCK]
 Name = Rock
@@ -75,7 +75,7 @@ Name = Water
 IconPosition = 11
 IsSpecialType = true
 Weaknesses = GRASS,ELECTRIC
-Resistances = STEEL,FIRE,WATER,ICE
+Resistances = STEEL,FIRE,WATER,ICE,SOUND
 #-------------------------------
 [GRASS]
 Name = Grass
@@ -95,14 +95,14 @@ Resistances = FLYING,STEEL,ELECTRIC
 Name = Psychic
 IconPosition = 14
 IsSpecialType = true
-Weaknesses = BUG,GHOST,DARK
+Weaknesses = BUG,GHOST,DARK,SOUND
 Resistances = FIGHTING,PSYCHIC
 #-------------------------------
 [ICE]
 Name = Ice
 IconPosition = 15
 IsSpecialType = true
-Weaknesses = FIGHTING,ROCK,STEEL,FIRE
+Weaknesses = FIGHTING,ROCK,STEEL,FIRE,SOUND
 Resistances = ICE
 #-------------------------------
 [DRAGON]
@@ -110,7 +110,7 @@ Name = Dragon
 IconPosition = 16
 IsSpecialType = true
 Weaknesses = ICE,DRAGON,FAIRY
-Resistances = FIRE,WATER,GRASS,ELECTRIC
+Resistances = FIRE,WATER,GRASS,ELECTRIC,SOUND
 #-------------------------------
 [DARK]
 Name = Dark
@@ -124,6 +124,13 @@ Immunities = PSYCHIC
 Name = Fairy
 IconPosition = 18
 IsSpecialType = true
-Weaknesses = POISON,STEEL
+Weaknesses = POISON,STEEL,SOUND
 Resistances = FIGHTING,BUG,DARK
 Immunities = DRAGON
+#-------------------------------
+[SOUND]
+Name = Sound
+IconPosition = 19
+IsSpecialType = true
+Weaknesses = GHOST,DRAGON,DARK
+Resistances = FIGHTING,ELECTRIC,SOUND
