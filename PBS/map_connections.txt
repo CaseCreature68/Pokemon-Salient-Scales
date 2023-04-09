@@ -28,6 +28,10 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
+# Inctrus City (Trees) (42) - Inctrus City (33)
+42,South,0,33,North,0
+# Inctrus City (Trees) (43) - Inctrus City (33)
+43,North,0,33,South,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -38,13 +42,5 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 1 (78) - Inctrus City (33)
-78,West,0,33,East,0
-# Inctrus City (Trees) (42) - Inctrus City (33)
-42,South,0,33,North,0
-# Inctrus City (Trees) (43) - Inctrus City (33)
-43,North,0,33,South,0
-# Inctrus City (Trees) (42) - Route 1 (78)
-42,East,16,78,West,0
-# Inctrus City (Trees) (43) - Route 1 (78)
-43,North,40,78,South,0
+# Route 1 (78) - Rantref Town (79)
+78,East,0,79,West,2
