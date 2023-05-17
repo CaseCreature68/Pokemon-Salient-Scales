@@ -1,0 +1,7 @@
+Ivysaur:
+evolutionlv 32 -> 36
+
+Venusaur:
+spatk 100 -> 110
+spdef 100 -> 110
+speed 80  -> 75
