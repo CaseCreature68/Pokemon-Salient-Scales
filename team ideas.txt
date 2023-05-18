@@ -11,4 +11,4 @@ one other ?
 
 terrain effects:
 permanent rain
-permanent trick room
+permanent trick room l
