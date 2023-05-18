@@ -1,10 +1,13 @@
+gumball:
 pokemon:
 
 mega revavroom
 sandy shocks
 kingambit
 hisui goodra
-2 new steel pokemon
+2 new steel pokemon:
+ostrailan mudsdale
+one other ?
 
 terrain effects:
 permanent rain
