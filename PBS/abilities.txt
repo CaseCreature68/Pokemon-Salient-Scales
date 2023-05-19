@@ -1194,3 +1194,7 @@ Description = Boosts Attack in Tailwind or by wind damage.
 [ZEROTOHERO]
 Name = Zero to Hero
 Description = Transforms into its Hero Form when it switches out.
+#-------------------------------
+[PUREEVIL]
+Name = Pure Evil
+Description = Grants the user with an immunity to Fairy-type moves.
