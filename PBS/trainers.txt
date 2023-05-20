@@ -12,3 +12,9 @@ Pokemon = ROGGENROLA,4
 Pokemon = DUSKULL,6
     Gender = male
     Ball = MOONBALL
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = I guess you were stronger...
+Pokemon = RATTATA,6
+    Form = 1
+Pokemon = APPLIN,7
