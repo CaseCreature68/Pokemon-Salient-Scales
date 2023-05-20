@@ -1,5 +1,14 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
 [POKEMONTRAINER_May,Julia]
 LoseText = That was a great battle!
 Pokemon = MEOWTH,5
 #-------------------------------
+[RIVAL1,Kyle]
+LoseText = Ah...
+Pokemon = ROGGENROLA,4
+    Gender = male
+    Ball = DUSKBALL
+Pokemon = DUSKULL,6
+    Gender = male
+    Ball = MOONBALL
