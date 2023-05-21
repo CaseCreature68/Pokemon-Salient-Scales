@@ -59,6 +59,21 @@ Weight = 40.5
 Pokedex = Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.
 Generation = 6
 #-------------------------------
+[PIDGEY,1]
+FormName = Ostrailan
+Types = DARK,FLYING
+Abilities = FRISK
+HiddenAbilities = AERILATE
+TutorMoves = ATTRACT,BLIZZARD,CONFIDE,COVET,DARKPULSE,DOUBLETEAM,EMBARGO,ENDEAVOR,FACADE,FRUSTRATION,GRASSKNOT,HIDDENPOWER,ICEBEAM,ICYWIND,IRONTAIL,LASTRESORT,PROTECT,QUASH,RAINDANCE,REST,RETURN,ROUND,SHADOWBALL,SHADOWCLAW,SHOCKWAVE,SLEEPTALK,SLUDGEBOMB,SNARL,SNATCH,SNORE,SUBSTITUTE,SUNNYDAY,SUPERFANG,SWAGGER,TAUNT,THIEF,TORMENT,TOXIC,UPROAR,UTURN,ZENHEADBUTT
+EggMoves = COUNTER,FINALGAMBIT,FURYSWIPES,MEFIRST,REVENGE,REVERSAL,SNATCH,STOCKPILE,SWALLOW,SWITCHEROO,UPROAR
+Weight = 3.8
+Color = Black
+Pokedex = With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.
+Generation = 10
+Flags = InheritFormWithEverStone
+WildItemUncommon = SHARPBEAK
+Evolutions = PIDGEOTTO,Level,20
+#-------------------------------
 [PIDGEOT,1]
 FormName = Mega Pidgeot
 MegaStone = PIDGEOTITE
