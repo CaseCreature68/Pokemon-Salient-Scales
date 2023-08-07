@@ -1,5 +1,23 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[GOODRA]
+BackSprite = 1,38
+FrontSprite = 6,12
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[GOODRA,1]
+BackSprite = 0,0
+FrontSprite = 0,4
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[BASCULEGION]
+BackSprite = 0,32
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
 [BULBASAUR]
 BackSprite = 0,58
 FrontSprite = 1,36
@@ -4916,12 +4934,6 @@ FrontSprite = 2,22
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
-[GOODRA]
-BackSprite = 1,38
-FrontSprite = 6,12
-ShadowX = 0
-ShadowSize = 2
-#-------------------------------
 [KLEFKI]
 BackSprite = 0,44
 FrontSprite = 0,6
@@ -6223,3 +6235,9 @@ BackSprite = 0,47
 FrontSprite = -5,9
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[ANNIHILAPE]
+BackSprite = 0,0
+FrontSprite = 0,14
+ShadowX = 0
+ShadowSize = 2
