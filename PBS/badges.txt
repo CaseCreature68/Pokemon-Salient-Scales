@@ -1,0 +1,289 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BOULDERBADGE]
+Name = Boulder Badge
+Type = ROCK
+LeaderName = Brock
+LeaderSprite = LEADER_Brock
+Location = Pewter City
+AcePokemon = ONIX
+Order = 0
+#-------------------------------
+[CASCADEBADGE]
+Name = Cascade Badge
+Type = WATER
+LeaderName = Misty
+LeaderSprite = LEADER_Misty
+Location = Cerulean City
+AcePokemon = STARMIE
+Order = 0
+#-------------------------------
+[THUNDERBADGE]
+Name = Thunder Badge
+Type = ELECTRIC
+LeaderName = Lt. Surge
+LeaderSprite = LEADER_Surge
+Location = Vermilion City
+AcePokemon = RAICHU
+Order = 0
+#-------------------------------
+[RAINBOWBADGE]
+Name = Rainbow Badge
+Type = GRASS
+LeaderName = Erika
+LeaderSprite = LEADER_Erika
+Location = Celadon City
+AcePokemon = VILEPLUME
+Order = 0
+#-------------------------------
+[SOULBADGE]
+Name = Soul Badge
+Type = POISON
+LeaderName = Koga
+LeaderSprite = LEADER_Koga
+Location = Fuchsia City
+AcePokemon = WEEZING
+Order = 0
+#-------------------------------
+[MARSHBADGE]
+Name = Marsh Badge
+Type = PSYCHIC
+LeaderName = Sabrina
+LeaderSprite = LEADER_Sabrina
+Location = Saffron City
+AcePokemon = ALAKAZAM
+Order = 0
+#-------------------------------
+[VOLCANOBADGE]
+Name = Volcano Badge
+Type = FIRE
+LeaderName = Blaine
+LeaderSprite = LEADER_Blaine
+Location = Cinnabar Island
+AcePokemon = ARCANINE
+Order = 0
+#-------------------------------
+[EARTHBADGE]
+Name = Earth Badge
+Type = GROUND
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYHORN
+Order = 0
+#-------------------------------
+[ZEPHYRBADGE]
+Name = Zephyr Badge
+Type = FLYING
+LeaderName = Falkner
+LeaderSprite = LEADER_Falkner
+Location = Violet City
+AcePokemon = PIDGEOTTO
+Order = 0
+#-------------------------------
+[HIVEBADGE]
+Name = Hive Badge
+Type = BUG
+LeaderName = Bugsy
+LeaderSprite = LEADER_Bugsy
+Location = Azalea City
+AcePokemon = SCYTHER
+Order = 0
+#-------------------------------
+[PLAINBADGE]
+Name = Plain Badge
+Type = NORMAL
+LeaderName = Whitney
+LeaderSprite = LEADER_Whitney
+Location = Goldenrod City
+AcePokemon = MILTANK
+Order = 0
+#-------------------------------
+[FOGBADGE]
+Name = Fog Badge
+Type = GHOST
+LeaderName = Morty
+LeaderSprite = LEADER_Morty
+Location = Ecruteak City
+AcePokemon = GENGAR
+Order = 0
+#-------------------------------
+[STORMBADGE]
+Name = Storm Badge
+Type = FIGHTING
+LeaderName = Chuck
+LeaderSprite = LEADER_Chuck
+Location = Cianwood City
+AcePokemon = POLIWRATH
+Order = 0
+#-------------------------------
+[MINERALBADGE]
+Name = Mineral Badge
+Type = STEEL
+LeaderName = Jasmine
+LeaderSprite = LEADER_Jasmine
+Location = Olivine City
+AcePokemon = STEELIX
+Order = 0
+#-------------------------------
+[GLACIERBADGE]
+Name = Glacier Badge
+Type = ICE
+LeaderName = Pryce
+LeaderSprite = LEADER_Pryce
+Location = Mahogany City
+AcePokemon = PILOSWINE
+Order = 0
+#-------------------------------
+[RISINGBADGE]
+Name = Rising Badge
+Type = DRAGON
+LeaderName = Clair
+LeaderSprite = LEADER_Clair
+Location = Blackthorn City
+AcePokemon = KINGDRA
+Order = 0
+#-------------------------------
+[STONEBADGE]
+Name = Stone Badge
+Type = ROCK
+LeaderName = Roxanne
+LeaderSprite = LEADER_Roxanne
+Location = Rustboro City
+AcePokemon = NOSEPASS
+Order = 0
+#-------------------------------
+[KNUCKLEBADGE]
+Name = Knuckle Badge
+Type = FIGHTING
+LeaderName = Brawly
+LeaderSprite = LEADER_Brawly
+Location = Dewford City
+AcePokemon = MAKUHITA
+Order = 0
+#-------------------------------
+[DYNAMOBADGE]
+Name = Dynamo Badge
+Type = ELECTRIC
+LeaderName = Wattson
+LeaderSprite = LEADER_Wattson
+Location = Mauville City
+AcePokemon = MANECTRIC
+Order = 0
+#-------------------------------
+[HEATBADGE]
+Name = Heat Badge
+Type = FIRE
+LeaderName = Falnnery
+LeaderSprite = LEADER_Flannery
+Location = Lavaridge City
+AcePokemon = TORKOAL
+Order = 0
+#-------------------------------
+[BALANCEBADGE]
+Name = Balance Badge
+Type = NORMAL
+LeaderName = Norman
+LeaderSprite = LEADER_Norman
+Location = Petalburg City
+AcePokemon = SLAKING
+Order = 0
+#-------------------------------
+[FEATHERBADGE]
+Name = Feather Badge
+Type = FLYING
+LeaderName = Winona
+LeaderSprite = LEADER_Winona
+Location = Fortree City
+AcePokemon = ALTARIA
+Order = 0
+#-------------------------------
+[MINDBADGE]
+Name = Mind Badge
+Type = PSYCHIC
+LeaderName = Tate and Liza
+LeaderSprite = LEADER_Tate_and_Liza
+Location = Mossdeep City
+AcePokemon = SOLROCK
+Order = 0
+#-------------------------------
+[RAINBADGE]
+Name = Rain Badge
+Type = WATER
+LeaderName = Juan
+LeaderSprite = LEADER_Juan
+Location = Sootopolis City
+AcePokemon = KINGDRA
+Order = 0
+#-------------------------------
+[COALBADGE]
+Name = Coal Badge
+Type = ROCK
+LeaderName = Roark
+LeaderSprite = LEADER_Roark
+Location = Oreburgh City
+AcePokemon = CRANIDOS
+Order = 0
+#-------------------------------
+[FORESTBADGE]
+Name = Forest Badge
+Type = GRASS
+LeaderName = Gardenia
+LeaderSprite = LEADER_Gardenia
+Location = Eterna City
+AcePokemon = ROSERADE
+Order = 0
+#-------------------------------
+[COBBLEBADGE]
+Name = Cobble Badge
+Type = FIGHTING
+LeaderName = Maylene
+LeaderSprite = LEADER_Maylene
+Location = Veilstone City
+AcePokemon = LUCARIO
+Order = 0
+#-------------------------------
+[FANBADGE]
+Name = Fan Badge
+Type = WATER
+LeaderName = Crasher Wake
+LeaderSprite = LEADER_Crasher_Wake
+Location = Pastoria City
+AcePokemon = FLOATZEL
+Order = 0
+#-------------------------------
+[RELICBADGE]
+Name = Relic Badge
+Type = GHOST
+LeaderName = Fantina
+LeaderSprite = LEADER_Fantina
+Location = Hearthome City
+AcePokemon = MISMAGIUS
+Order = 0
+#-------------------------------
+[MINEBADGE]
+Name = Mine Badge
+Type = STEEL
+LeaderName = Byron
+LeaderSprite = LEADER_Byron
+Location = Canalave City
+AcePokemon = BASTIODON
+Order = 0
+#-------------------------------
+[ICICLEBADGE]
+Name = Icicle Badge
+Type = ICE
+LeaderName = Candice
+LeaderSprite = LEADER_Candice
+Location = Snowpoint City
+AcePokemon = FROSLASS
+Order = 0
+#-------------------------------
+[BEACONBADGE]
+Name = Beacon Badge
+Type = ELECTRIC
+LeaderName = Volkner
+LeaderSprite = LEADER_Volkner
+Location = Sunyshore City
+AcePokemon = ELECTIVIRE
+Order = 0

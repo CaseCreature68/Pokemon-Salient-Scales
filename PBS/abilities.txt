@@ -1195,6 +1195,12 @@ Description = Boosts Attack in Tailwind or by wind damage.
 Name = Zero to Hero
 Description = Transforms into its Hero Form when it switches out.
 #-------------------------------
+# New Abilities
+#-------------------------------
+[ACCELERATINGFIST]
+Name = Accelerating Fist
+Description = A combination of both Speed Boost and Iron Fist.
+#-------------------------------
 [PUREEVIL]
 Name = Pure Evil
-Description = Grants the user with an immunity to Fairy-type moves.
+Description = Grants the user an immunity to Fairy-type moves.
