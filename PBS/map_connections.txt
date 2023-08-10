@@ -28,6 +28,8 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
+# Route 1 (78) - Inctrus City (33)
+78,West,0,33,East,6
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -38,7 +40,7 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 1 (78) - Inctrus City (33)
-78,West,0,33,East,6
 # Rantref Town (79) - Route 1 (78)
 79,West,6,78,East,0
+# Creatyn Town (83) - Creatyn Town (82)
+83,South,16,82,North,0
